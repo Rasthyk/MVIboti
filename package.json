@@ -1,0 +1,26 @@
+{
+  "name": "mviboti",
+  "version": "1.0.0",
+  "description": "bots for mvi",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rasthyk/MVIboti.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Rastik <Rastik>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rasthyk/MVIboti/issues"
+  },
+  "homepage": "https://github.com/Rasthyk/MVIboti#readme",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "restify": "^4.3.0"
+  }
+}
